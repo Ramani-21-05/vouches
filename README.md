@@ -1,10 +1,10 @@
-# 🛡️ Public Vouches & Verification Vault — Ramani Krishnan
+# 🛡️ Public Vouches & Verification Vault — Ramani Pannirselvam
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Ramani--21--05-181717?style=flat-square&logo=github)](https://github.com/Ramani-21-05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramani2105-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ramani2105)
 [![Portfolio](https://img.shields.io/badge/Agency-rkws.in-00f2fe?style=flat-square&logo=googlechrome)](https://rkws.in)
 
-This repository serves as a **public, transparent record of client vouches, peer reviews, technical debugging assistance, and open-source contributions** by **Ramani Krishnan**.
+This repository serves as a **public, transparent record of client vouches, peer reviews, technical debugging assistance, and open-source contributions** by **Ramani Pannirselvam**.
 
 ---
 
